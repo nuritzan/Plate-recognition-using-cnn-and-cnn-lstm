@@ -11,5 +11,5 @@ This project implements and compares **Convolutional Neural Network (CNN)** and 
 - Google Colab
 
 ## Dataset
-- Source: [Kaggle Dataset](https://www.kaggle.com/)  
+- Source: [License plate dataset](https://www.kaggle.com/datasets/firqaaa/indonesian-vehicle-plate-numbers) & [Character dataset](https://www.kaggle.com/datasets/sarthakvajpayee/ai-indian-license-plate-recognition-data)
 - Contains 36 labeled character classes (0–9, A–Z)
